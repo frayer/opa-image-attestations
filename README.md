@@ -1,5 +1,7 @@
 # opa-image-attestations
 
+![opa test](https://github.com/frayer/opa-image-attestations/actions/workflows/opa-test.yml/badge.svg)
+
 An experimental [Open Policy Agent](https://www.openpolicyagent.org/) policy to
 test ideas around how to verify one or more attestations exist on a Container
 Image before allowing that Container to run in a Kubernetes environment.
